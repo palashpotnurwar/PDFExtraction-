@@ -1,0 +1,9 @@
+https://medium.com/social-impact-analytics/extract-text-from-unsearchable-pdfs-for-data-analysis-using-python-a6a2ca0866dd
+
+ 
+
+https://www.analyticsvidhya.com/blog/2021/06/data-extraction-from-unstructured-pdfs/
+
+https://pyimagesearch.com/2020/09/07/ocr-a-document-form-or-invoice-with-tesseract-opencv-and-python/
+
+https://towardsdatascience.com/extracting-text-from-scanned-pdf-using-pytesseract-open-cv-cd670ee38052
