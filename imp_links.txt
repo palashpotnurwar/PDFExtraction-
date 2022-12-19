@@ -7,3 +7,8 @@ https://www.analyticsvidhya.com/blog/2021/06/data-extraction-from-unstructured-p
 https://pyimagesearch.com/2020/09/07/ocr-a-document-form-or-invoice-with-tesseract-opencv-and-python/
 
 https://towardsdatascience.com/extracting-text-from-scanned-pdf-using-pytesseract-open-cv-cd670ee38052
+
+
+https://pypi.org/project/pdf2image/
+
+https://stackoverflow.com/questions/62040294/extracting-text-from-scanned-pdf-images-using-python-pypdf2#:~:text=import%20pdf2image%20import%20pytesseract%20from%20pytesseract%20import%20Output%2C,the%20image%20text%20%3D%20%22%20%22.join%20%28ocr_dict%20%5B%27text%27%5D%29
